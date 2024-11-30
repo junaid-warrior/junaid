@@ -1,0 +1,7 @@
+class Kodnest 
+{
+   public static void main(String[] args)
+    {
+       System.out.println("our first java demo class");
+     }
+         }
